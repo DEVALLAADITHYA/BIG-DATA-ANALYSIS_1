@@ -81,3 +81,5 @@ The project will result in a comprehensive analysis of the dataset, revealing va
 **Conclusion:**
 This project provides a hands-on experience in Big Data analysis, showcasing the power of tools like PySpark and Dask. By successfully analyzing a large dataset and deriving meaningful insights, the project serves as a stepping stone for advanced data engineering and analytics tasks. The deliverable will be a script or notebook that not only fulfills the technical requirements but also offers actionable results, emphasizing the importance of Big Data in real-world applications.
 
+**OUTPUT**:
+![BIG DATA ANALYSIS](https://github.com/user-attachments/assets/e040a662-44fd-4d95-b1f7-ad95d6bc59b5)
