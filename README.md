@@ -1,17 +1,4 @@
-# BIG-DATA-ANALYSIS_!
-**COMPANY** : CODTECH IT SOLUTIONS
-
-**NAME** : DEVALLA ADITHYA
-
-**INTERN ID** :CT6WGIY
-
-**DOMAIN**: DATA ANALYSIS
-
-**BATCH DURATION: December 25th, 2024 to February 10th, 2025
-
-**MENTOR NAME: NEELA SANTHOSH
-
-# DESCRIPTION OF TASK :
+# BIG-DATA-ANALYSIS
 **Project Title: Big Data Analysis Using PySpark or Dask**
 
 **Objective:**
